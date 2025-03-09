@@ -1,0 +1,11 @@
+export { default as Accessbank1 } from '../assets/images/Accessbank1.png';
+export { default as BankMorrocoGuinea } from '../assets/images/BANQUE-MAROCO-GUINEE.png';
+export { default as Islamic } from '../assets/images/islamique_de_guinee.png';
+export { default as Kulu } from '../assets/images/kulu.png';
+export { default as Nsia } from '../assets/images/nsia-banque.png';
+export { default as Orange } from '../assets/images/orange.png';
+export { default as SaheloSaharienne } from '../assets/images/sahelo-saharienne.png';
+export { default as PayCard } from '../assets/images/paycard.png';
+export { default as SgGuinea } from '../assets/images/sg-guinee.png';
+export { default as Ymo } from '../assets/images/ymo.png';
+export { default as MtnMoney } from '../assets/images/sticker-pmobile-money.png';
